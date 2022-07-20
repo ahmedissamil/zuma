@@ -1,0 +1,22 @@
+C:\Users\shire\Downloads\project\project\bin\Debug\project.exe
+C:\Users\shire\Downloads\project\project\bin\Debug\project.pdb
+C:\Users\shire\Downloads\project\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\shire\Downloads\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
+C:\Users\shire\Downloads\project\project\obj\x86\Debug\project.exe
+C:\Users\shire\Downloads\project\project\obj\x86\Debug\project.pdb
+C:\Users\shire\Downloads\project\project\obj\x86\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\shire\Downloads\174025 sherif mahmoud\project\project\obj\x86\Debug\project.exe
+C:\Users\shire\Downloads\174025 sherif mahmoud\project\project\obj\x86\Debug\project.pdb
+C:\Users\shire\Downloads\174025 sherif mahmoud\project\project\bin\Debug\project.exe
+C:\Users\shire\Downloads\174025 sherif mahmoud\project\project\bin\Debug\project.pdb
+C:\Users\shire\Downloads\174025 sherif mahmoud\project\project\obj\x86\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\shire\Downloads\174025 sherif mahmoud\project\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\shire\Downloads\174025 sherif mahmoud\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
+D:\this.term\Computer graphics\zuma_game-master\project\bin\Debug\project.exe
+D:\this.term\Computer graphics\zuma_game-master\project\bin\Debug\project.pdb
+D:\this.term\Computer graphics\zuma_game-master\project\obj\x86\Debug\project.csprojAssemblyReference.cache
+D:\this.term\Computer graphics\zuma_game-master\project\obj\x86\Debug\project.Properties.Resources.resources
+D:\this.term\Computer graphics\zuma_game-master\project\obj\x86\Debug\project.csproj.GenerateResource.cache
+D:\this.term\Computer graphics\zuma_game-master\project\obj\x86\Debug\project.csproj.CoreCompileInputs.cache
+D:\this.term\Computer graphics\zuma_game-master\project\obj\x86\Debug\project.exe
+D:\this.term\Computer graphics\zuma_game-master\project\obj\x86\Debug\project.pdb
